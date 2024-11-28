@@ -1,5 +1,5 @@
 # THIS CHEAT NO LONGER WORKS (kinda)
-You can easily add your own driver and update the offsets and this will work.
+**This is really easy to get working again** add your own driver & add the new offsets of UC (I will not help u tho)
 
 # What is this and why?
 My private Apex Legends SRC code. I worked on this with NXTG3N before he got cut due to Activision's lawyers. I’ve decided to release this for educational purposes, as I no longer use this SRC, and a lot of the code is poor.
